@@ -440,6 +440,11 @@ hr.black{
     text-transform: uppercase;
     letter-spacing: 0.2em;
 }
+.font-boom{
+    font-family: Dosis, arial, sans-serif !important;
+    text-transform: uppercase;
+    letter-spacing: 0.2em; 
+}
 .serif{
 	font-family: "Times New Roman", Times, serif;
 	font-style: italic;
